@@ -4,6 +4,8 @@
 
 Includes four example heritages that you can make with the [Crafting Heritages and Cultures](https://www.drivethrurpg.com/product/387005/Homebrew-and-Hacking-Crafting-Heritages-and-Cultures) toolkit!
 
+You can also get the content as a [PDF on DTRPG](https://www.drivethrurpg.com/product/396249/Arboreals-Brownies-Merfolk-and-Unicorns).
+
 ## Licenses
 
 The content of the `packs/` directory is provided under the terms of the Open Gaming License v1.0a. A copy of the license can be found in the `OGL.md` document.
